@@ -1,3 +1,5 @@
+#### 测试 Flutter 并尝试添加克拉克小游戏挂机脚本
+
 # SC汉化盒子 / SCToolBox
  
 [简体中文](https://github.com/StarCitizenToolBox/app/blob/main/README.md) / [繁體中文](https://github.com/StarCitizenToolBox/app/blob/main/README_zh-TW.md) / [English](https://github.com/StarCitizenToolBox/app/blob/main/README_en.md)
